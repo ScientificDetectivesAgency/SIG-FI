@@ -1,3 +1,5 @@
+## Aseguradoras y riesgo sismico 
+
 Esta práctica se busca desarrollar un Sistema de Información Geográfica (SIG) a partir de datos geogrpaficos permita brindar una herramienta efectiva a las aseguradoras para calcular costos de seguros basados en la exposición al riesgo sísmico.
 
 Los objetivos de este proyecto incluyen:
