@@ -11,3 +11,9 @@ Evaluación de factores de riesgo: El SIG analizará una serie de factores que i
 Tabulador de costos para aseguradoras: El sistema generará un tabulador de costos que reflejará los niveles de riesgo en cada zona de la Ciudad de México. Las aseguradoras podrán utilizar esta información para calcular las primas de seguro de manera más justa y precisa.
 
 Lo que se puede esperar del sistema es una mayor equidad en la determinación de tarifas de seguros, lo que beneficiará tanto a los asegurados como a las aseguradoras. Los habitantes de la Ciudad de México podrán tomar decisiones informadas sobre la adquisición de seguros, mientras que las aseguradoras podrán reducir el riesgo de pérdidas financieras significativas debido a eventos sísmicos. Además, este proyecto podría servir como ejemplo de cómo la tecnología y la ciencia de datos pueden contribuir a la seguridad y la gestión de riesgos en áreas propensas a desastres naturales.
+
+Para lo anterior este ejercició estará dividido en tres sexxiones 
+*Exploración de datos 
+*Definición del modelo de análisis 
+*Visualización de datos 
+*Presentación de resultados
