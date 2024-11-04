@@ -3,11 +3,11 @@
 En el contexto actual, la capacidad de analizar grandes volúmenes de datos es esencial en ambitos como la ingeniería. La gestión y el análisis de datos geoespaciales son fundamentales para la toma de decisiones informadas en proyectos de exploración, evaluación y monitoreo de recursos naturales, ente muchas otras. En este ejercicio práctico, se presentará a modo de introducción el uso de SQL (Structured Query Language) junto con PostGIS, una extensión de PostgreSQL que añade soporte para datos geoespaciales.
 
 1.Preprocesamiento de datos
-  -Creación de bases de datos 
-  -Extensión PostGIS 
-  -Esquemas 
-  -Modificación de columanas, tipos de datos, etc.
-  -Timestamp
+-Creación de bases de datos 
+-Extensión PostGIS 
+-Esquemas 
+-Modificación de columanas, tipos de datos, etc.
+-Timestamp
 2.Consultas Básicas
   -SELECT: selección de datos.
   -WHERE: filtrado de resultados.
