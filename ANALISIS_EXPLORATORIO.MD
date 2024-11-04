@@ -23,6 +23,13 @@ En el contexto actual, la capacidad de analizar grandes volúmenes de datos es e
 ## Manejadores de bases de datos y PostGIS 
 En esta parte de la práctica vamos a comenzar a usar el manejador de bases de datos a través del programa DBeaver, este nos permite tener una interfáz amigable con la que podamos interactuar y hacer las consultas a nuestra base de datos. Primero vamos a comenzar con los tres pasos que indispensables para comenzar a trabajar con sql: 1) conectar el manejador a la interfáz, 2) crear una base de datos de trabajo, 3) conectarse a la base y crear la extensión de PostGIS. 
 
+```sql
+create database sig_fi;
+create extension postgis;
+```
+**Ahora vamos a QGIS 
+
+
 ## Preprocesamiento de datos ## 
 
 En esta sección vamos a 
