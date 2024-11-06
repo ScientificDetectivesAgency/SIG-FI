@@ -116,6 +116,14 @@ from municipios a
 join zmvm b
 on st_intersects(a.geom, b.geom);
 ```
+Ejercicio: 
+
+1. Carga los datos de inundaciones y edificios dañados por el sismo de 2017 de la Ciudad de México
+2. Calcula el promedio de rentas por colonia en la Ciudad de México
+3. Compara el precio de las Ventas con el riesgo de inundaciones
+4. Agrega una columna que se llame avg_rentas y avg_ventas a la capa de inundaciones
+5. Actualizala con información de inmuebles
+6. Crea una capa sólo con las colonias con riesgo Alto
 
 
 
